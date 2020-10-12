@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Anton Akhankov](https://up.htmlacademy.ru/htmlcss/29/user/1470097).
-* Наставник: `Неизвестно`.
+* Наставник: [Ярослав Шевцов](https://htmlacademy.ru/profile/redx).
 
 ---
 
